@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1587185003 source:g:\tubes\main.cpp
+	"header.h"
+
+1587102229 source:g:\tubes\body.cpp
+	"header.h"
+
+1587101871 g:\tubes\header.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+
+1587474439 source:g:\tubes v1\body.cpp
+	"header.h"
+
+1587476065 g:\tubes v1\header.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+
+1587476065 source:g:\tubes v1\main.cpp
+	"header.h"
+
+1587476169 source:g:\new folder\tubes v1\body.cpp
+	"header.h"
+
+1587476065 g:\new folder\tubes v1\header.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+
+1587483736 source:g:\new folder\tubes v1\main.cpp
+	"header.h"
+
+1587476169 source:d:\tugas\tubes v1\body.cpp
+	"header.h"
+
+1587476065 d:\tugas\tubes v1\header.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+
+1587483736 source:d:\tugas\tubes v1\main.cpp
+	"header.h"
+
